@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-card-solution-html-and-css-only-SJQT7IiQ5](https://www.frontendmentor.io/solutions/faq-accordion-card-solution-html-and-css-only-SJQT7IiQ5)
+- Live Site URL: [https://onemanbanned.github.io/accordion-card-challenge/](https://onemanbanned.github.io/accordion-card-challenge/)
 
 ### Built with
 
